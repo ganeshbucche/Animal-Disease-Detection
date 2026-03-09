@@ -1,0 +1,1 @@
+img = image.load_img("C:/Users/Ganes/Desktop/mproject/test.jpg", target_size=(224,224))
